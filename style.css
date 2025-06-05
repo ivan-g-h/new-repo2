@@ -1,2 +1,8 @@
-.body {
+header {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+
+p {
 }
